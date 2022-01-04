@@ -2,9 +2,9 @@
 
 Once you click the button to generate a password, you are presented with a series of prompts for password criteria.
 
-You will be promptedto choose the length of the password, which must be between 8 and 128 characters.
+You will be prompted to choose the length of the password, which must be between 8 and 128 characters.
 
-Not following these isnstructions will result in an error and require you to reselect an option.
+Not following these instructions will result in an error and require you to reselect an option.
 
 You will confirm whether or not to include numeric, uppercase, lowercase, and/or special characters.
 
